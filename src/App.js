@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Learned CI / CD
+          Learned CI / CD Tst
         </p>
         
       </header>
